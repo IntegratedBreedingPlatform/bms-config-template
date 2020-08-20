@@ -9,9 +9,9 @@
 	<modules>
 		<module>../Middleware/</module>
 		<module>../Commons/</module>
-		<module>../BreedingManager/</module>
 		<module>../Fieldbook/</module>
 		<module>../Workbench/</module>
 		<module>../BMSAPI/</module>
+        <module>../InventoryManager/</module>
 	</modules>
 </project>
