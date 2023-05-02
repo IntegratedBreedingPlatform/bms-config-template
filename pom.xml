@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>org.generationcp</groupId>
 	<artifactId>bms-config-template</artifactId>
-	<version>23.4</version>
+	<version>23.5</version>
 	<packaging>pom</packaging>
 	<modules>
 		<module>../Middleware/</module>
